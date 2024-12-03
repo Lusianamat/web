@@ -190,4 +190,23 @@ li {
 	padding: 15px;
 	text-align: center;
 	}
+
+div.section{
+display: block;
+background-color: white;
+padding-top: 10px;
+padding-bottom: 10px;
+border-color: blueviolet;
+border-style: solid;
+}
+
+img.social:hover{
+	opacity: .50;
+}
+
+
+
+
+
+
 	
